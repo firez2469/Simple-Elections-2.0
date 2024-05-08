@@ -1,5 +1,5 @@
 # Simple-Elections-2.0
-A repo for the updated SimpleElections bot. Open source for self-hosting.
+A repo for the updated SimpleElections discord bot. Open source for self-hosting.
 
 ## Dependencies
 - [Discord.py](https://pypi.org/project/discord.py/)
